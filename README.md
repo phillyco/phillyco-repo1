@@ -1,2 +1,2 @@
-# phillyco-repo1
-testing zenhub and slack integrations
+# PHILLYCO repo
+A repo for testing Zenhub, Github, and Slack integrations together.
